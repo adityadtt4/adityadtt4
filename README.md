@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**adityadtt4/adityadtt4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Aditya. I am a 3rd Year BSc Computer Science student from the UK.
 
-Here are some ideas to get you started:
+I have a strong interest in AI and machine learning, particularly the algorithms that underpin
+modern AI models. I am also keenly interested in Cyber Security, Data Science, and the
+principles behind developing efficient, maintainable software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Please find below all of the languages I am comfortable working in:
+
+- Python
+- C
+- Haskell
+- Java
