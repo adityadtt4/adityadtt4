@@ -11,4 +11,4 @@ Please find below all of the languages I am comfortable working in:
 - Python
 - C
 - Haskell
-- Java
+- SQL
